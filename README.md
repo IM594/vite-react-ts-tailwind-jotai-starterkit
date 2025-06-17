@@ -1,5 +1,11 @@
 vite-react-ts-tailwind-jotai-starterkit
 
+1. git clone
+2. rm -rf .git
+3. git init
+4. git add .
+5. git commit -m "chore: init project based on vite-react-ts-tailwind-jotai-starterkit"
+
 Tips
 
 - 如果只通过 Vite 插件来集成 Tailwind（也就是只装了 tailwindcss 和 @tailwindcss/vite），Vite 会自动在内部给你挂载好 PostCSS 和 Tailwind 的编译流程，不用再额外写 postcss.config.mjs
